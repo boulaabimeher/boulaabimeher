@@ -42,76 +42,42 @@ const Meher = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a seasoned freelancer offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives. </b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
 
-<!-- comment
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C816%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1194-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 185.8 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
+📊 Hi again !
 
 ```text
-🌞 Morning                758 commits         ██████████████░░░░░░░░░░░   19.37 % 
-🌆 Daytime                1768 commits        ██████████░░░░░░░░░░░░░░░   40.52 % 
-🌃 Evening                1285 commits        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-🌙 Night                  552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Tuesday                  603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Wednesday                710 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Friday                   456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Saturday                 558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Sunday                   908 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-```
+🕑︎ Time Zone: Central European Time (CET; UTC+01:00)
 
 
-📊 **This Week I Spent My Time On** 
+🔥 Editors : 
+Jupyter notebook               
+Visual studio code
+Atom
+Google Colab
 
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
-Dart                     3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-YAML                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-.env file                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-
-🔥 Editors: 
-WebStorm                 9 hrs 12 mins       █████████████████░░░░░░░░   68.10 % 
-Android Studio           4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+🔥 Terminal :
+cmd
+Cmder
+Git batch
 
 💻 Operating System: 
-Windows                      12 hrs 31 mins / Day     █████████████████████████   100.00 % 
+Windows 10/11           
+
 ```
 
-**I Mostly Code in JavaScript** 
+**Python** 
 
-```text
-JavaScript               32 repos            ███████████░░░░░░░░░░░░░░   45.07 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+```Library
+
+Pandas             
+Numpy                  
+Matplotlib                 
+Seaborn       
+Scikit-Learn
+TensorFlow
+Keras
+SciPy
+Streamlit
+etc ..             
 ```
 
