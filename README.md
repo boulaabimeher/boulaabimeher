@@ -11,6 +11,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/boulaabimeher?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=boulaabimeher)
 
+![LinkedIn followers](https://img.shields.io/badge/LinkedIn-1k-blue?style=flat-square&logo=Linkedin&logoColor=white)
+
+
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
