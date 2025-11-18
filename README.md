@@ -64,7 +64,7 @@ Cmder
 Git batch
 
 💻 Operating System: 
-Windows 10/11           
+Windows 10/11 / Linux / Ubuntu          
 
 ```
 
