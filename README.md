@@ -3,7 +3,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-<p><em> PhD student in computer science at <a href="https://um.rnu.tn/en/"> FSM - University of Monastir
+<p><em> PhD student in computer science - AI at <a href="https://um.rnu.tn/en/"> FSM - University of Monastir
+<p><em> AI Researcher <a href="https://um.rnu.tn/en/](https://www.cril.univ-artois.fr/en/"> (CRIL UMR 8188) - CNRS - France
+
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
