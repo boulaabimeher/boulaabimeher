@@ -18,23 +18,45 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a seasoned freelancer offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives. </b> 😊</em>
 
 ```javascript
+
 const Meher = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Matlab", "C++"],
-    askMeAbout: ["AI", "Machine Learning", "Deep Learning", "Computer Vision", "Medical image analysis"],
+    pronouns: "He/Him",
+    code: ["Python"],
+    askMeAbout: [
+        "GenAI", 
+        "Machine Learning", 
+        "Deep Learning", 
+        "Computer Vision", 
+        "Medical Image Analysis"
+
+    ],
     technologies: {
         frameworks: {
-            python: ["TensorFlow", "scikit-learn"],
+            python: ["TensorFlow", "PyTorch"],
         },
         IDEs: {
-            general: ["Jupyter", "Spyder", "Google collabs"],
+            general: ["Jupyter", "VScode", "Google Colab","Cluster-CRIL"],
         },
         databases: ["MySQL", "SQL", "MongoDB"],
-        misc: ["OpenCV", "Streamlit", "SciPy", "Pandas", "Matplotlib"]
+        misc: ["OpenCV", "Streamlit", "SciPy", "Pandas", "Matplotlib", "tqdm","+27 others"]
     },
-    currentFocus: "Advancing research in AI, particularly in computer vision and image processing",
-    funFact: "AI is not just about algorithms, it's also about asking the right questions!"
+    currentFocus: " LLM resoning, computer vision, medical image analysis and transformer-based models",
+    publications: [
+        {
+            title: "Enhancing DR Classification with Swin Transformer and Shifted Window Attention",
+            year: 2025,
+            contribution: "Achieved enhanced performance in lesion classification."
+        },
+        {
+            title: "Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+",
+            year: 2024,
+            contribution: "Developed a binary segmentation method for each lesion type and combined results DR datasets."
+        },
+
+    ],
+    funFact: "AI is not just about algorithms—it's also about asking the right questions!"
 };
+
 ```
 
 ---
