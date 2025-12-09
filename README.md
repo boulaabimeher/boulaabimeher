@@ -15,14 +15,7 @@
 
 ![LinkedIn followers](https://img.shields.io/badge/LinkedIn-1k-blue?style=flat-square&logo=Linkedin&logoColor=white)
 
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/thesismeher" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a seasoned freelancer offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives. </b> 😊</em>
 
 ```javascript
 const Meher = {
@@ -44,8 +37,6 @@ const Meher = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am a seasoned freelancer offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives. </b> 😊</em>
-
 ---
 
 📊 Hi again !
@@ -55,18 +46,19 @@ const Meher = {
 
 
 🔥 Editors : 
-Jupyter notebook               
 Visual studio code
+Jupyter notebook
 Atom
 Google Colab
 
 🔥 Terminal :
 cmd
 Cmder
-Git batch
+Git
+anaconda
 
 💻 Operating System: 
-Windows 10/11 / Linux / Ubuntu          
+Windows / Linux / Ubuntu          
 
 ```
 
@@ -80,9 +72,10 @@ Matplotlib
 Seaborn       
 Scikit-Learn
 TensorFlow
+Pytorch
 Keras
 SciPy
 Streamlit
-etc ..             
+And much more ...             
 ```
 
